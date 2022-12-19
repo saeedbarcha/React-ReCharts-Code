@@ -1,0 +1,46 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  /* background-color: rgb(31, 29, 29); */
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.chart-heading{
+  color:red;
+  text-align: center;
+  text-decoration: underline;
+}
+.chart{
+  /* background-color: yellow; */
+  /* background: url("./components/images/Grid.png");
+  background-size: cover;
+  background-position: center;
+  background-position-x: center; */
+}
+.LineChart{
+/* background-color: aqua; */
+/* background: url("./components/images/Grid.png"); */
+}
+.tooltip{
+  background-color: brown;
+}
+.resCont{
+  background-color: brown;
+  padding: 10px;
+  background-image: url("./components/images/Grid.png");
+  background-repeat: no-repeat;  
+  background-repeat: repeat;
+  background-position-y: 10%;
+  /* background-size: cover; */
+}
+.LineChart{
+  /* background-color: rgb(255, 163, 163); */
+}
